@@ -1,6 +1,6 @@
 /* MAPPING_MODE_ENABLED: false */
 
-  /* {"version":1,"sourceType":"raw","mappings":[{"from":"","to":"externalId","asType":"STRING"},{"from":"","to":"parentExternalId","asType":"STRING"},{"from":"","to":"source","asType":"STRING"},{"from":"","to":"name","asType":"STRING"},{"from":"","to":"description","asType":"STRING"},{"from":"","to":"metadata","asType":"MAP<STRING, STRING>"},{"from":"","to":"dataSetId","asType":"BIGINT"},{"from":"","to":"labels","asType":"ARRAY<STRING>"}],"sourceLevel1":"src:001:sap:db","sourceLevel2":"assets"} */
+/* {"version":1,"sourceType":"raw","mappings":[{"from":"","to":"externalId","asType":"STRING"},{"from":"","to":"parentExternalId","asType":"STRING"},{"from":"","to":"source","asType":"STRING"},{"from":"","to":"name","asType":"STRING"},{"from":"","to":"description","asType":"STRING"},{"from":"","to":"metadata","asType":"MAP<STRING, STRING>"},{"from":"","to":"dataSetId","asType":"BIGINT"},{"from":"","to":"labels","asType":"ARRAY<STRING>"}],"sourceLevel1":"src:001:sap:db","sourceLevel2":"assets"} */
 
 
   SELECT
